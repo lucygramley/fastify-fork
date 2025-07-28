@@ -1,0 +1,233 @@
+[2025-07-25 14:53:38.390] Changing working directory from C:\Users\lucygramley to c:\Users\lucygramley\Downloads\ai_test_repos\fastify-fork
+[2025-07-25 14:54:12.303] Updating 26 packages at c:\Users\lucygramley\Downloads\ai_test_repos\fastify-fork
+[2025-07-25 14:55:01.642] Analyzing project at: c:\Users\lucygramley\Downloads\ai_test_repos\fastify-fork
+[2025-07-25 14:55:01.643] Analyzing repository structure...
+[2025-07-25 14:55:01.824] No monorepo structure detected
+[2025-07-25 14:55:01.826] Generating installation commands...
+[2025-07-25 14:55:02.979] Found 3 package installation tasks
+[2025-07-25 14:55:02.985] Installing packages...
+[2025-07-25 14:55:35.099] Looking for local TypeScript installation...
+[2025-07-25 14:55:35.103] Using local TypeScript compiler at: c:\Users\lucygramley\Downloads\ai_test_repos\fastify-fork\node_modules\typescript\lib\tsc.js
+[2025-07-25 14:55:35.104] Building project to collect baseline errors...
+[2025-07-25 14:55:35.111] Found 0 errors in initial build
+[2025-07-25 14:56:25.417] Updating packages in the following order:
+ @fastify/ajv-compiler, @fastify/error, @fastify/fast-json-stringify-compiler, avvio, fast-json-stringify, find-my-way, light-my-request, pino, rfdc, semver, @fastify/pre-commit, @sinclair/typebox, @sinonjs/fake-timers, @stylistic/eslint-plugin @stylistic/eslint-plugin-js eslint neostandard, @types/node, ajv, borp, concurrently, fastify-plugin, joi, json-schema-to-ts, undici, yup
+[2025-07-25 14:56:25.574] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:25.593] Updating package group (1/23): @fastify/ajv-compiler
+[2025-07-25 14:56:29.212] Updating @fastify/ajv-compiler from ^4.0.0 to ^4.0.2
+[2025-07-25 14:56:29.219] No new errors found after updating @fastify/ajv-compiler.
+[2025-07-25 14:56:29.221] Modified files while updating package(s) @fastify/ajv-compiler: 
+package.json
+[2025-07-25 14:56:29.224] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:29.227] Package group @fastify/ajv-compiler completed in 00:00:03.
+Successfully upgraded 1 packages: @fastify/ajv-compiler
+[2025-07-25 14:56:29.229] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:29.231] Updating package group (2/23): @fastify/error
+[2025-07-25 14:56:32.788] Updating @fastify/error from ^4.0.0 to ^4.2.0
+[2025-07-25 14:56:32.793] No new errors found after updating @fastify/error.
+[2025-07-25 14:56:32.794] Modified files while updating package(s) @fastify/error: 
+package.json
+[2025-07-25 14:56:32.796] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:32.798] Package group @fastify/error completed in 00:00:03.
+Successfully upgraded 1 packages: @fastify/error
+[2025-07-25 14:56:32.800] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:32.801] Updating package group (3/23): @fastify/fast-json-stringify-compiler
+[2025-07-25 14:56:36.558] Updating @fastify/fast-json-stringify-compiler from ^5.0.0 to ^5.0.3
+[2025-07-25 14:56:36.564] No new errors found after updating @fastify/fast-json-stringify-compiler.
+[2025-07-25 14:56:36.567] Modified files while updating package(s) @fastify/fast-json-stringify-compiler: 
+package.json
+[2025-07-25 14:56:36.570] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:36.571] Package group @fastify/fast-json-stringify-compiler completed in 00:00:03.
+Successfully upgraded 1 packages: @fastify/fast-json-stringify-compiler
+[2025-07-25 14:56:36.573] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:36.574] Updating package group (4/23): avvio
+[2025-07-25 14:56:39.968] Updating avvio from ^9.0.0 to ^9.1.0
+[2025-07-25 14:56:39.973] No new errors found after updating avvio.
+[2025-07-25 14:56:39.975] Modified files while updating package(s) avvio: 
+package.json
+[2025-07-25 14:56:39.976] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:39.977] Package group avvio completed in 00:00:03.
+Successfully upgraded 1 packages: avvio
+[2025-07-25 14:56:39.978] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:39.979] Updating package group (5/23): fast-json-stringify
+[2025-07-25 14:56:43.555] Updating fast-json-stringify from ^6.0.0 to ^6.0.1
+[2025-07-25 14:56:43.562] No new errors found after updating fast-json-stringify.
+[2025-07-25 14:56:43.564] Modified files while updating package(s) fast-json-stringify: 
+package.json
+[2025-07-25 14:56:43.566] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:43.568] Package group fast-json-stringify completed in 00:00:03.
+Successfully upgraded 1 packages: fast-json-stringify
+[2025-07-25 14:56:43.570] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:43.572] Updating package group (6/23): find-my-way
+[2025-07-25 14:56:47.511] Updating find-my-way from ^9.0.0 to ^9.3.0
+[2025-07-25 14:56:47.515] No new errors found after updating find-my-way.
+[2025-07-25 14:56:47.517] Modified files while updating package(s) find-my-way: 
+package.json
+[2025-07-25 14:56:47.519] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:47.520] Package group find-my-way completed in 00:00:03.
+Successfully upgraded 1 packages: find-my-way
+[2025-07-25 14:56:47.521] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:47.522] Updating package group (7/23): light-my-request
+[2025-07-25 14:56:51.224] Updating light-my-request from ^6.0.0 to ^6.6.0
+[2025-07-25 14:56:51.227] No new errors found after updating light-my-request.
+[2025-07-25 14:56:51.228] Modified files while updating package(s) light-my-request: 
+package.json
+[2025-07-25 14:56:51.230] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:51.231] Package group light-my-request completed in 00:00:03.
+Successfully upgraded 1 packages: light-my-request
+[2025-07-25 14:56:51.232] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:51.233] Updating package group (8/23): pino
+[2025-07-25 14:56:55.137] Updating pino from ^9.0.0 to ^9.7.0
+[2025-07-25 14:56:55.142] No new errors found after updating pino.
+[2025-07-25 14:56:55.143] Modified files while updating package(s) pino: 
+package.json
+[2025-07-25 14:56:55.145] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:55.146] Package group pino completed in 00:00:03.
+Successfully upgraded 1 packages: pino
+[2025-07-25 14:56:55.150] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:55.152] Updating package group (9/23): rfdc
+[2025-07-25 14:56:58.710] Updating rfdc from ^1.3.1 to ^1.4.1
+[2025-07-25 14:56:58.714] No new errors found after updating rfdc.
+[2025-07-25 14:56:58.716] Modified files while updating package(s) rfdc: 
+package.json
+[2025-07-25 14:56:58.717] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:56:58.718] Package group rfdc completed in 00:00:03.
+Successfully upgraded 1 packages: rfdc
+[2025-07-25 14:56:58.719] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:56:58.720] Updating package group (10/23): semver
+[2025-07-25 14:57:02.324] Updating semver from ^7.6.0 to ^7.7.2
+[2025-07-25 14:57:02.328] No new errors found after updating semver.
+[2025-07-25 14:57:02.329] Modified files while updating package(s) semver: 
+package.json
+[2025-07-25 14:57:02.330] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:02.331] Package group semver completed in 00:00:03.
+Successfully upgraded 1 packages: semver
+[2025-07-25 14:57:02.332] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:02.333] Updating package group (11/23): @fastify/pre-commit
+[2025-07-25 14:57:06.002] Updating @fastify/pre-commit from ^2.1.0 to ^2.2.0
+[2025-07-25 14:57:06.006] No new errors found after updating @fastify/pre-commit.
+[2025-07-25 14:57:06.008] Modified files while updating package(s) @fastify/pre-commit: 
+package.json
+[2025-07-25 14:57:06.010] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:06.011] Package group @fastify/pre-commit completed in 00:00:03.
+Successfully upgraded 1 packages: @fastify/pre-commit
+[2025-07-25 14:57:06.013] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:06.015] Updating package group (12/23): @sinclair/typebox
+[2025-07-25 14:57:09.970] Updating @sinclair/typebox from ^0.34.13 to ^0.34.38
+[2025-07-25 14:57:09.975] No new errors found after updating @sinclair/typebox.
+[2025-07-25 14:57:09.977] Modified files while updating package(s) @sinclair/typebox: 
+package.json
+[2025-07-25 14:57:09.979] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:09.981] Package group @sinclair/typebox completed in 00:00:03.
+Successfully upgraded 1 packages: @sinclair/typebox
+[2025-07-25 14:57:09.983] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:09.984] Updating package group (13/23): @sinonjs/fake-timers
+[2025-07-25 14:57:13.888] Updating @sinonjs/fake-timers from ^11.2.2 to ^14.0.0
+[2025-07-25 14:57:13.892] No new errors found after updating @sinonjs/fake-timers.
+[2025-07-25 14:57:13.893] Modified files while updating package(s) @sinonjs/fake-timers: 
+package.json
+[2025-07-25 14:57:13.894] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:13.896] Package group @sinonjs/fake-timers completed in 00:00:03.
+Successfully upgraded 1 packages: @sinonjs/fake-timers
+[2025-07-25 14:57:13.898] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:13.900] Updating package group (14/23): @stylistic/eslint-plugin @stylistic/eslint-plugin-js eslint neostandard
+[2025-07-25 14:57:18.186] Updating @stylistic/eslint-plugin from ^5.1.0 to ^5.2.2, @stylistic/eslint-plugin-js from ^4.1.0 to ^4.4.1, eslint from ^9.0.0 to ^9.32.0, neostandard from ^0.12.0 to ^0.12.2
+[2025-07-25 14:57:18.192] No new errors found after updating @stylistic/eslint-plugin @stylistic/eslint-plugin-js eslint neostandard.
+[2025-07-25 14:57:18.195] Modified files while updating package(s) @stylistic/eslint-plugin @stylistic/eslint-plugin-js eslint neostandard: 
+package.json
+[2025-07-25 14:57:18.197] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:18.198] Package group @stylistic/eslint-plugin @stylistic/eslint-plugin-js eslint neostandard completed in 00:00:04.
+Successfully upgraded 4 packages: @stylistic/eslint-plugin,@stylistic/eslint-plugin-js,eslint,neostandard
+[2025-07-25 14:57:18.200] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:18.202] Updating package group (15/23): @types/node
+[2025-07-25 14:57:22.285] Updating @types/node from ^24.0.12 to ^24.1.0
+[2025-07-25 14:57:22.288] No new errors found after updating @types/node.
+[2025-07-25 14:57:22.289] Modified files while updating package(s) @types/node: 
+package.json
+[2025-07-25 14:57:22.291] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:22.293] Package group @types/node completed in 00:00:04.
+Successfully upgraded 1 packages: @types/node
+[2025-07-25 14:57:22.295] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:22.297] Updating package group (16/23): ajv
+[2025-07-25 14:57:26.065] Updating ajv from ^8.12.0 to ^8.17.1
+[2025-07-25 14:57:26.069] No new errors found after updating ajv.
+[2025-07-25 14:57:26.070] Modified files while updating package(s) ajv: 
+package.json
+[2025-07-25 14:57:26.072] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:26.073] Package group ajv completed in 00:00:03.
+Successfully upgraded 1 packages: ajv
+[2025-07-25 14:57:26.074] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:26.075] Updating package group (17/23): borp
+[2025-07-25 14:57:29.809] Updating borp from ^0.20.0 to ^0.20.1
+[2025-07-25 14:57:29.813] No new errors found after updating borp.
+[2025-07-25 14:57:29.814] Modified files while updating package(s) borp: 
+package.json
+[2025-07-25 14:57:29.818] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:29.819] Package group borp completed in 00:00:03.
+Successfully upgraded 1 packages: borp
+[2025-07-25 14:57:29.820] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:29.821] Updating package group (18/23): concurrently
+[2025-07-25 14:57:33.592] Updating concurrently from ^9.1.2 to ^9.2.0
+[2025-07-25 14:57:33.597] No new errors found after updating concurrently.
+[2025-07-25 14:57:33.599] Modified files while updating package(s) concurrently: 
+package.json
+[2025-07-25 14:57:33.601] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:33.602] Package group concurrently completed in 00:00:03.
+Successfully upgraded 1 packages: concurrently
+[2025-07-25 14:57:33.604] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:33.605] Updating package group (19/23): fastify-plugin
+[2025-07-25 14:57:37.315] Updating fastify-plugin from ^5.0.0 to ^5.0.1
+[2025-07-25 14:57:37.319] No new errors found after updating fastify-plugin.
+[2025-07-25 14:57:37.322] Modified files while updating package(s) fastify-plugin: 
+package.json
+[2025-07-25 14:57:37.325] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:37.326] Package group fastify-plugin completed in 00:00:03.
+Successfully upgraded 1 packages: fastify-plugin
+[2025-07-25 14:57:37.328] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:37.330] Updating package group (20/23): joi
+[2025-07-25 14:57:40.935] Updating joi from ^17.12.3 to ^17.13.3
+[2025-07-25 14:57:40.939] No new errors found after updating joi.
+[2025-07-25 14:57:40.941] Modified files while updating package(s) joi: 
+package.json
+[2025-07-25 14:57:40.942] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:40.943] Package group joi completed in 00:00:03.
+Successfully upgraded 1 packages: joi
+[2025-07-25 14:57:40.944] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:40.945] Updating package group (21/23): json-schema-to-ts
+[2025-07-25 14:57:44.830] Updating json-schema-to-ts from ^3.0.1 to ^3.1.1
+[2025-07-25 14:57:44.835] No new errors found after updating json-schema-to-ts.
+[2025-07-25 14:57:44.838] Modified files while updating package(s) json-schema-to-ts: 
+package.json
+[2025-07-25 14:57:44.839] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:44.841] Package group json-schema-to-ts completed in 00:00:03.
+Successfully upgraded 1 packages: json-schema-to-ts
+[2025-07-25 14:57:44.842] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:44.843] Updating package group (22/23): undici
+[2025-07-25 14:57:48.586] Updating undici from ^7.11.0 to ^7.12.0
+[2025-07-25 14:57:48.595] No new errors found after updating undici.
+[2025-07-25 14:57:48.597] Modified files while updating package(s) undici: 
+package.json
+[2025-07-25 14:57:48.599] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:48.600] Package group undici completed in 00:00:03.
+Successfully upgraded 1 packages: undici
+[2025-07-25 14:57:48.601] Using VS Code provided token for Kusto authentication
+[2025-07-25 14:57:48.602] Updating package group (23/23): yup
+[2025-07-25 14:57:52.474] Updating yup from ^1.4.0 to ^1.6.1
+[2025-07-25 14:57:52.477] No new errors found after updating yup.
+[2025-07-25 14:57:52.479] Modified files while updating package(s) yup: 
+package.json
+[2025-07-25 14:57:52.480] Deleted temp directory for PackageUpdater.
+[2025-07-25 14:57:52.482] Package group yup completed in 00:00:03.
+Successfully upgraded 1 packages: yup
+[2025-07-25 14:57:52.484] All packages updated.
+[2025-07-25 14:57:52.485] Updater completed in 00:04:14.
+Successfully upgraded 26 packages.
+Partially upgraded 0 packages.
+Unable to upgrade 0 packages.
+Total packages available for upgrade: 26
+[2025-07-25 14:57:52.487] === Token Usage Summary ===
+Total API Calls: 0
+Total Tokens: 0 (Prompt: 0, Completion: 0)
+Usage by Model:
+
+[2025-07-25 14:57:52.489] Report written to c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\logs\fastify-fork_2025-07-25_14-53-38.txt
